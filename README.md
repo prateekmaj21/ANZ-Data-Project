@@ -2,6 +2,8 @@
 
 Done as a part of Data@ANZ Open Access Program on InsideSherpa.
 
+Data on Kaggle: https://www.kaggle.com/datasets/prateekmaj21/anz-banking-data/
+
 
 ![image](https://github.com/prateekmaj21/ANZ-Data-Project/blob/master/ANZ%20Image.jpg)
 
