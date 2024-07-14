@@ -10,4 +10,8 @@ Working with banking data from ANZ.
 
 - **Task 2** : Predictive Analytics, and building a regression and a decision-tree prediction model.
 
+### Additional Work:
+
+- Predicting Salary using Financial Data: https://www.kaggle.com/code/prateekmaj21/predicting-salary-using-financial-data
+
 
